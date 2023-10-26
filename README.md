@@ -15,4 +15,4 @@ Uma simples calculadora responsiva de Índice de Massa Corporal (IMC) desenvolvi
 
 ## Demonstração
 
-Você pode conferir a demonstração do projeto [aqui](calculadora-imc-resp.netlify.app).
+Você pode conferir a demonstração do projeto [aqui](https://calculadora-imc-resp.netlify.app/).
